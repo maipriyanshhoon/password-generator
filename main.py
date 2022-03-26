@@ -1,7 +1,6 @@
 import string
 import random
 
-
 # characters to generate password from
 characters = list(string.ascii_letters + string.digits + "!@#$%^&*()")
 
